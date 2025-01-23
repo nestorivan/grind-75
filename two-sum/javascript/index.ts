@@ -21,3 +21,5 @@ function twoSum(nums: number[], target: number): number[] {
   // we return an empty array to satisfy with the function signature in case of no result
   return [];
 }
+
+export default twoSum;

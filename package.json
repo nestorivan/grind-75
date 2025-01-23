@@ -1,0 +1,25 @@
+{
+  "name": "grind-75",
+  "version": "1.0.0",
+  "description": "Repository to host leetcode 75 problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nestorivan/grind-75.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nestorivan/grind-75/issues"
+  },
+  "homepage": "https://github.com/nestorivan/grind-75#readme",
+  "devDependencies": {
+    "vitest": "^3.0.3"
+  },
+  "dependencies": {
+    "node": "^18.20.6"
+  }
+}
